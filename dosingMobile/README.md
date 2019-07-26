@@ -1,5 +1,8 @@
 # demo
-
+进入项目目录下载项目依赖
+npm i
+下载完成后启动项目
+npm run dev
 > A Vue.js project
 
 ## Build Setup
